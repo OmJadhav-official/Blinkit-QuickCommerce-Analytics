@@ -45,10 +45,17 @@ This improved **operational efficiency**, reduced manual reporting, and enhanced
 ---
 
 ## 📷 Dashboard Previews
-Screenshots of the Power BI dashboard are available in the `images/` folder:  
-- `images/Blinkit1.png` → Sales & Marketing Overview  
-- `images/Blinkit2.png` → Customer & Payment Insights  
-- `images/Blinkit3.png` → Customer Growth & Engagement  
+
+### 🛒 Sales & Marketing Overview
+![Blinkit Dashboard 1](https://github.com/OmJadhav-official/Blinkit-QuickCommerce-Analytics/blob/main/images/Blinkit1.png)
+
+### 👥 Customer & Payment Insights
+![Blinkit Dashboard 2](https://github.com/OmJadhav-official/Blinkit-QuickCommerce-Analytics/blob/main/images/Blinkit2.png)
+
+### 📈 Customer Growth & Engagement
+![Blinkit Dashboard 3](https://github.com/OmJadhav-official/Blinkit-QuickCommerce-Analytics/blob/main/images/Blinkit3.png)
+
+
 
 ---
 
