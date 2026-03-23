@@ -1,4 +1,4 @@
-# 📊 Blinkit Power BI Dashboard Project
+# 📊 Blinkit E-Commerce Analysis
 
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=📖+Project+Description;Blinkit+Power+BI+Dashboard+Project" alt="Project Description" />
